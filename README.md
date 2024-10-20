@@ -59,12 +59,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Willi4amVargas/Willi4amVargas/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img height="200" src="https://i.gifer.com/7AQ.gif"  />
 </div>
