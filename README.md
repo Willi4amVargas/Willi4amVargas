@@ -1,4 +1,12 @@
-<h4 align="center">👋Hola! Soy un desarrollador web apasionado por la tecnología y la creación de soluciones eficientes. Mi experiencia abarca:<br><br>- Frontend: Desarrollo de interfaces interactivas y modernas con React y JavaScript.<br>- Backend: Creación de lógica de servidor con Python y Node.js, y manejo de datos con bases de datos relacionales como PostgreSQL.<br>- Experiencia Profesional: Actualmente trabajo en Grupo Sysven, una empresa líder en sistemas administrativos para droguerías, utilizando el sistema Crystal.<br><br>Me encanta enfrentar nuevos desafíos y contribuir a proyectos innovadores. Siempre estoy aprendiendo y buscando mejorar mis habilidades para ofrecer soluciones de calidad.<br><br>🚀Conecta conmigo para colaborar en proyectos interesantes!</h4>
+<h4 align="center">
+  👋Hola! Soy un desarrollador web apasionado por la tecnología y la creación de soluciones eficientes. Mi experiencia abarca:<br>
+  <br>- Frontend: Desarrollo de interfaces interactivas y modernas con Typescript y frameworks como React, NextJS, Astro, asi como usando TailwindCSS. Aplicando SSR y CSR
+  <br>- Backend: Creación de lógica de servidor con Python o Node.js. Usando tanto ORM para el modelado de la base datos y frameworks como Express, FastAPI, Django
+  <br>- Tecnologias: Dominio de Linux y experiencia en la conteneirización de aplicaciones con Docker
+  <br>- Bases de datos: Experiencia en el mantenimiento y desarrollo de bases de datos en PostgreSQL, asi como conocimiento en Firebase
+  <br>- Experiencia Profesional: Experiencia con una empresa líder en sistemas administrativos para droguerías, utilizando un sistema ERP empresarial <br><br>Me encanta enfrentar nuevos desafíos y contribuir a proyectos innovadores. Siempre estoy aprendiendo y buscando mejorar mis habilidades para ofrecer soluciones de calidad. Haciendo codigo mantenible y limpio<br><br>🚀Conecta conmigo para colaborar en proyectos interesantes!
+
+</h4>
 
 ###
 
